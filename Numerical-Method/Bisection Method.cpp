@@ -40,3 +40,4 @@ int main() {
 		printf("\nThe approximate root after %d iterations: %.3f\n", iteration, c);
 		return 0;
 }
+
